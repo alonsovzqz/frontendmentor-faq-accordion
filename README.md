@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/flexbox-responsive-faq-accordion-k37iAUruku)
+- Live Site URL: [Vercel](https://frontendmentor-faq-accordion-ten.vercel.app/)
 - Repo URL: [Github](https://github.com/alonsovzqz/frontendmentor-faq-accordion)
 
 ## My process
