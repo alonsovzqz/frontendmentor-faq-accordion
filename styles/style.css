@@ -97,6 +97,15 @@ h1 {
   line-height: 150%;
 }
 
+.accordion-item[open] > .heading::after {
+  content: url('../assets/images/icon-minus.svg');
+}
+
+.heading::after {
+  display: inline-block;
+  content: url('../assets/images/icon-plus.svg');
+}
+
 .heading {
   color: var(--dark-purple);
   font-size: 1rem;
